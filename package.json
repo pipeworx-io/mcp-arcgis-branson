@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-branson",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "City of Branson GIS — Branson, Missouri open geospatial data (ArcGIS).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "arcgis-branson",
     "gatewaySlug": "arcgis-branson",
-    "sourceHash": "v1-7e52077d60c8cb12ca5c8d82bb81aec59afd5ba85dcee9c2ba3bfd14dd3db0c2",
-    "sourceCommit": "c6136b81713e72ccb22977ca0c0cd981f8c3f081"
+    "sourceHash": "v1-d03afb6b848449f83f6cedf43a98a8aa7c0bb223227b63234cfdeb2b8958eaff",
+    "sourceCommit": "aef970216f5309cdd22a27ddfc275e472aaadac1"
   }
 }
